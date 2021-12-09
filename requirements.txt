@@ -1,0 +1,3 @@
+wand
+pandas
+Pillow
